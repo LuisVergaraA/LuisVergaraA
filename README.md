@@ -10,10 +10,10 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Intereses](#intereses)
 
 ## Información personal 
-* Nombre: [Luis E. Vergara Arellano]
-* Ocupación: [Estudiante]
-* Lugar de residencia: [Guayaquil, Ecuador]
-* Sitio web: [https://luisvergaraa.github.io/LuisVergaraA/]
+* Nombre: Luis E. Vergara Arellano
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: https://luisvergaraa.github.io/LuisVergaraA/
 
 ## Proyectos 
 * [Lista de tus proyectos]
