@@ -15,8 +15,8 @@
 * Sitio web: https://luisvergaraa.github.io/LuisVergaraA/
 
 ## Proyectos 🗂️
-* Proyecto 3 delicias
-https://github.com/ArianVillavicencio/PAR4_PROY2P_ROCA_VERGARA_VILLAVICENCIO
+* 
+* 
 
 ## Intereses 🔎
 * Ciberseguridad
