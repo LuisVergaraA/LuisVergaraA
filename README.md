@@ -30,6 +30,11 @@ Este proyecto consiste en el diseño y desarrollo de una base de datos relaciona
 
 🔗 [Repositorio del proyecto](https://github.com/emilybibi04/Proyecto_SBD_Parcial2)
 
+### Mangoneado
+Simulación en C de un sistema de etiquetado robótico distribuido. Implementa comunicación vía Sockets TCP, orquestación concurrente con hilos POSIX y tolerancia a fallos dinámica. Incluye análisis de rendimiento con Python.
+
+🔗 [Repositorio del proyecto]((https://github.com/LuisVergaraA/proyecto_mangoneado))
+
 ## Intereses 🔎
 * Ciberseguridad
 * Inteligencia artificial aplicada a problemas reales
@@ -37,10 +42,10 @@ Este proyecto consiste en el diseño y desarrollo de una base de datos relaciona
 * Aprendizaje continuo y compartir conocimiento
 
 ## Tecnologías 🔧
-* Lenguajes de programación: Python, Java, HTML, CSS, JavaScript, Tailwind CSS
+* Lenguajes de programación: Python, Java, HTML, CSS, JavaScript, Tailwind CSS, C, R
 * Bases de Datos: MySQL
 * Otros: Git & GitHub
 
 ## Contacto 🔔
 * Correo institucional: luvearel@espol.edu.ec
-* GiyHub: LuisVergaraA
+* GitHub: LuisVergaraA
